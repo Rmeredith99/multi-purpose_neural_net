@@ -1,2 +1,2 @@
 # multi-purpose_neural_net
-An attempt teaching one neural network multiple unique tasks
+An attempt at teaching a single neural network multiple unique tasks
